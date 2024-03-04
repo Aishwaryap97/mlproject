@@ -6,8 +6,7 @@
   "depends": [
     "python >=3.7,<3.8.0a0"
   ],
-  "extracted_package_dir": "C:\\Users\\Lenovo\\anaconda3\\pkgs\\wincertstore-0.2-py37haa95532_2",
-  "features": "",
+  "extracted_package_dir": "D:\\SOFTWARES\\Anaconda\\pkgs\\wincertstore-0.2-py37haa95532_2",
   "files": [
     "Lib/site-packages/__pycache__/wincertstore.cpython-37.pyc",
     "Lib/site-packages/wincertstore-0.2-py3.7.egg-info",
@@ -19,12 +18,12 @@
   "legacy_bz2_size": 15467,
   "license": "PSF 2",
   "link": {
-    "source": "C:\\Users\\Lenovo\\anaconda3\\pkgs\\wincertstore-0.2-py37haa95532_2",
+    "source": "D:\\SOFTWARES\\Anaconda\\pkgs\\wincertstore-0.2-py37haa95532_2",
     "type": 1
   },
   "md5": "c81906e16fe22e8c480bfdcea5d58599",
   "name": "wincertstore",
-  "package_tarball_full_path": "C:\\Users\\Lenovo\\anaconda3\\pkgs\\wincertstore-0.2-py37haa95532_2.conda",
+  "package_tarball_full_path": "D:\\SOFTWARES\\Anaconda\\pkgs\\wincertstore-0.2-py37haa95532_2.conda",
   "paths_data": {
     "paths": [
       {
@@ -51,12 +50,11 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "wincertstore",
   "sha256": "ba28e61eab94884bb6aa8dbcf92375c7445ba0d0ba3d14a08a0563cda6432b51",
   "size": 15625,
   "subdir": "win-64",
   "timestamp": 1633019083455,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/win-64/wincertstore-0.2-py37haa95532_2.conda",
   "version": "0.2"
 }

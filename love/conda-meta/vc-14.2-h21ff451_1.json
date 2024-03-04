@@ -6,8 +6,7 @@
   "depends": [
     "vs2015_runtime >=14.27.29016"
   ],
-  "extracted_package_dir": "C:\\Users\\Lenovo\\anaconda3\\pkgs\\vc-14.2-h21ff451_1",
-  "features": "",
+  "extracted_package_dir": "D:\\SOFTWARES\\Anaconda\\pkgs\\vc-14.2-h21ff451_1",
   "files": [
     ".nonadmin"
   ],
@@ -17,17 +16,17 @@
   "license": "Modified BSD License (3-clause)",
   "license_family": "BSD",
   "link": {
-    "source": "C:\\Users\\Lenovo\\anaconda3\\pkgs\\vc-14.2-h21ff451_1",
+    "source": "D:\\SOFTWARES\\Anaconda\\pkgs\\vc-14.2-h21ff451_1",
     "type": 1
   },
   "md5": "a8c870bfc2551c262800527f2107d0f3",
   "name": "vc",
-  "package_tarball_full_path": "C:\\Users\\Lenovo\\anaconda3\\pkgs\\vc-14.2-h21ff451_1.conda",
+  "package_tarball_full_path": "D:\\SOFTWARES\\Anaconda\\pkgs\\vc-14.2-h21ff451_1.conda",
   "paths_data": {
     "paths": [],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "vc",
   "sha256": "023b5cee28e68c6e85bbdd023d98412dfc23c8e02cccc5d2aacf32c33e9b96d5",
   "size": 8533,
   "subdir": "win-64",

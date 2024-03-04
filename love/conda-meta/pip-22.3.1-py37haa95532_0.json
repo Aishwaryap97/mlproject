@@ -8,8 +8,7 @@
     "setuptools",
     "wheel"
   ],
-  "extracted_package_dir": "C:\\Users\\Lenovo\\anaconda3\\pkgs\\pip-22.3.1-py37haa95532_0",
-  "features": "",
+  "extracted_package_dir": "D:\\SOFTWARES\\Anaconda\\pkgs\\pip-22.3.1-py37haa95532_0",
   "files": [
     "Lib/site-packages/pip-22.3.1-py3.7.egg-info/PKG-INFO",
     "Lib/site-packages/pip-22.3.1-py3.7.egg-info/SOURCES.txt",
@@ -1010,12 +1009,12 @@
   "license": "MIT",
   "license_family": "MIT",
   "link": {
-    "source": "C:\\Users\\Lenovo\\anaconda3\\pkgs\\pip-22.3.1-py37haa95532_0",
+    "source": "D:\\SOFTWARES\\Anaconda\\pkgs\\pip-22.3.1-py37haa95532_0",
     "type": 1
   },
   "md5": "c75c7dc12eab74fda7af199e7d9ba65d",
   "name": "pip",
-  "package_tarball_full_path": "C:\\Users\\Lenovo\\anaconda3\\pkgs\\pip-22.3.1-py37haa95532_0.conda",
+  "package_tarball_full_path": "D:\\SOFTWARES\\Anaconda\\pkgs\\pip-22.3.1-py37haa95532_0.conda",
   "paths_data": {
     "paths": [
       {
@@ -7958,12 +7957,11 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "pip",
   "sha256": "d8f3eccd1e8639b459bebb6d7fa6bff463c38dd03eeaae28775322c60713f247",
   "size": 2845230,
   "subdir": "win-64",
   "timestamp": 1670597952889,
-  "track_features": "",
   "url": "https://repo.anaconda.com/pkgs/main/win-64/pip-22.3.1-py37haa95532_0.conda",
   "version": "22.3.1"
 }

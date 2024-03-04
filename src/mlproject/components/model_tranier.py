@@ -13,11 +13,13 @@ from sklearn.metrics import r2_score
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.tree import DecisionTreeRegressor
 from xgboost import XGBRegressor
+from src.mlproject.components.model_trainer import ModelTrainerConfig
+from src.mlproject.components.model_trainer import ModelTrainer
 
-from src.exception import CustomException
-from src.logger import logging
+from src.mlproject.exception import CustomException
+from src.mlproject.logger import logging
 
-from src.utils import save_object,evaluate_models
+from src.mlproject.utils import save_object,evaluate_models
 
 @dataclass
 class ModelTrainerConfig:
